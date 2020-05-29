@@ -1,4 +1,4 @@
-# React-Express-Bulma
+# React-Express-Bulma Fashion Portfolio Management System
 The application is a Fashion Portfolio Management System, which allows people to create and view their portfolio.
 
 The app is built using Express.js for building the middleware, data is stored using MongoDB & Mongoose, React.js is used for the frontend along with Bulma for styling.
