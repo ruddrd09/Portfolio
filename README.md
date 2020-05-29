@@ -1,8 +1,7 @@
 # React-Express-Bulma
-The application is a Survey Assignment System, which assignes Surveys to the employees.
-At present only 4 employees and 6 surveys are present, database will be added later with the functionality of adding employees as well as surveys.
+The application is a Fashion Portfolio Management System, which allows people to create and view their portfolio.
 
-The app is built using Express.js for building the middleware, data is stored locally, React.js is used for the frontend along with Bulma for styling.
+The app is built using Express.js for building the middleware, data is stored using MongoDB & Mongoose, React.js is used for the frontend along with Bulma for styling.
 
 Steps to run ->
 After installing the repository on your system, run ->
